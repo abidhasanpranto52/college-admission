@@ -1,0 +1,26 @@
+[
+  {
+    "college_name": "University of ABC",
+    "admission_dates": "September 1 - October 31",
+    "events": "Orientation day: September 15, Career fair: October 10",
+    "research_history": "Founded in 1950, University of ABC has a rich research history...",
+    "sports": "Varsity Football, Basketball, Volleyball",
+    "college_image": "http://example.com/university_of_abc.jpg"
+  },
+  {
+    "college_name": "XYZ College",
+    "admission_dates": "November 1 - December 15",
+    "events": "Open House: November 10, Science Expo: December 5",
+    "research_history": "XYZ College has been a hub of cutting-edge research since 1985...",
+    "sports": "Soccer, Tennis, Swimming",
+    "college_image": "http://example.com/xyz_college.jpg"
+  },
+  {
+    "college_name": "PQR Institute",
+    "admission_dates": "January 15 - February 28",
+    "events": "Campus Carnival: February 10, Guest Lecture Series: February 25",
+    "research_history": "PQR Institute is renowned for its breakthroughs in various fields...",
+    "sports": "Cricket, Badminton, Athletics",
+    "college_image": "http://example.com/pqr_institute.jpg"
+  }
+]

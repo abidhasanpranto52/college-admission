@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAM2cDZx7AbWQqCiI04YGmSWZZthWFRvHg",
-  authDomain: "college-endgame.firebaseapp.com",
-  projectId: "college-endgame",
-  storageBucket: "college-endgame.appspot.com",
-  messagingSenderId: "706523424207",
-  appId: "1:706523424207:web:7d19c345cf7251a20a9eba"
+  apiKey: "AIzaSyCwGXsHIhsPHGYjWyJXVvaSK59zP27LJbc",
+  authDomain: "college-admisson.firebaseapp.com",
+  projectId: "college-admisson",
+  storageBucket: "college-admisson.appspot.com",
+  messagingSenderId: "955125585776",
+  appId: "1:955125585776:web:63bbaa3f96ce8884cd21b5"
 };
 
 // Initialize Firebase
